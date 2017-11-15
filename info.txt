@@ -1,0 +1,8 @@
+SE,Bogota,direccionBogota,8888888,9875
+PE,1,
+SP,Pereira,direccionPasto,9999999,95
+PT,1,
+PF,Quimica,descripcionQuimica,0,
+PE,1,
+ST,Pasto,direccionPasto,7777777,220
+PT,1,
